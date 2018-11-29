@@ -6,7 +6,12 @@
 
 2. Set login info
   - Copy **.env.example** to **.env**
-  - Set your TubeHR **username** and **password** in `.env`
+  - Set your TubeHR **userName** and **password** in `.env`
+  
+```
+userName = ''
+password = ''
+```
 
 
 ### Run
